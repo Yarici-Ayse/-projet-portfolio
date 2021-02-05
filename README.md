@@ -11,6 +11,6 @@ Mettre surtout écriture(par exemple portfolio) en valeur grand avec une police 
 ![menu](./images/Menu.JPG)
 Navigation très simple avec un soulignement et faire un logo personnalisé avec mon prénom.
 
-![couleur](./images/Palette de couleur.JPG)
+![couleur](./images/Palette_de_couleur.JPG)
 ![couleur](./images/Photo2.JPG) 
 Je voudrais utilisé des couleurs très clair
