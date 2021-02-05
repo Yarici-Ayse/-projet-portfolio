@@ -8,9 +8,9 @@ Le design avec les cercles ou courbes m'a beaucoup attiré( le grand cercle simp
 ![inspiration_site](./images/Design2.JPG)
 Mettre surtout écriture(par exemple portfolio) en valeur grand avec une police dans la famille scriptes.
 
-![menu](./images/menu.JPG)
+![menu](./images/Menu.JPG)
 Navigation très simple avec un soulignement et faire un logo personnalisé avec mon prénom.
 
-![couleur](./images/Palette_de_couleur.JPG)
+![couleur](./images/Palette de couleur.JPG)
 ![couleur](./images/Photo2.JPG) 
 Je voudrais utilisé des couleurs très clair
