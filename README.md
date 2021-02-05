@@ -18,7 +18,7 @@ Navigation très simple avec un soulignement et faire un logo personnalisé avec
 
 
 
-![couleur](./images/Palette _de_couleur.JPG)
+![couleur_palette](./images/Palette_couleur.JPG)
 
 
 ![couleur](./images/Photo2.JPG) 
