@@ -17,10 +17,10 @@
 * Pourquoi j'ai choisi cet option
 * Mettre joint mon CV
 
-### Page suivante " Mes projet "  
+## Page suivante " Mes projet "  
 
 * Mettre tous mes projets réaliser 
 
-#### Page suivante " Contact "  
+## Page suivante " Contact "  
 
 * Mes coordonnées
