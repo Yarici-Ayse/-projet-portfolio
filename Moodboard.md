@@ -14,6 +14,9 @@ Mettre surtout écriture(par exemple portfolio) en valeur grand avec une police 
 Navigation très simple avec un soulignement et faire un logo personnalisé avec mon prénom.
 
 
+![menu](./images/menu2.JPG)
+Le menu qui s'affiche de droite 
+
 ![couleur_palette](./images/Palette_couleur.JPG)
 
 
