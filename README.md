@@ -3,8 +3,6 @@
 
 ## ◾ Moodboard
 
-[Inspiration](https://github.com/Yarici-Ayse/projet-portfolio/blob/main/Moodboard.md)
-
 [Milanote](https://app.milanote.com/1Lcab21Fx6Ax9I?p=lWrRa5vSQsd)
 
 
