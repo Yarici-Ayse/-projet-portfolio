@@ -26,7 +26,9 @@
 * Un titre, mon adresse e-mail 
 * Les icons de mes réseaux sociaux
 
-### Page A propos
+# Pages
+
+### Page " A propos "
 
 * Une photo de moi
 * Une petite description (me présenter)
