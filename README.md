@@ -11,3 +11,5 @@
 ## Plan du site 
 
 [Mon plan du site](https://github.com/Yarici-Ayse/projet-portfolio/blob/main/Plan%20du%20site.md)
+
+## Stratégie
