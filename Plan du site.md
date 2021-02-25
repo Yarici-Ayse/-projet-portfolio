@@ -12,34 +12,34 @@
 
 ***********Scrollez vers le bas***************
 
-## Section " A propos "
+## ◾ Section " A propos "
 
 * Expliquez un peu à propos de moi en quelques phrases
 * Un bouton *lire la suite*  qui amène vers la page  " A Propos" 
 
-## Section " Mes projets "
+## ◾ Section " Mes projets "
 
 * Un titre, des images, une petite description et un bouton qui amène vers la page " Projets " pour chaque projets
 
-## Footer " Me Contactez "
+## ◾ Footer " Me Contactez "
 
 * Un titre, mon adresse e-mail 
 * Les icons de mes réseaux sociaux
 
 # Pages
 
-### Page " A propos "
+### ◾ Page " A propos "
 
 * Une photo de moi
 * Une petite description (me présenter)
 * Pourquoi j'ai choisi cet option
 * Mettre joint mon CV
 
-### Page " Mes projets "  
+### ◾ Page " Mes projets "  
 
 * Un titre, des images, description pour chaque projets
 
-### Page " Contact "  
+### ◾ Page " Contact "  
 
 * Titre, mettre mon adresse e-mail 
 * Les icons de mes réseaux sociaux
